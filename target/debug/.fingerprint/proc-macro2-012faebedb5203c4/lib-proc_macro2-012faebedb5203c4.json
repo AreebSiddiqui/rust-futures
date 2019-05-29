@@ -1,0 +1,1 @@
+{"rustc":18321205956227587961,"features":"[\"default\", \"proc-macro\"]","target":588165278078481901,"profile":11870183705523825133,"path":702815846558298021,"deps":[["unicode-xid v0.1.0","unicode_xid",608302202408239910]],"local":[{"Precalculated":"0.4.30"}],"rustflags":[],"edition":"Edition2015"}

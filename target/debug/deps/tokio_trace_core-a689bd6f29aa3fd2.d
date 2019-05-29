@@ -1,0 +1,12 @@
+C:\Users\ali\projects\futures\target\debug\deps\libtokio_trace_core-a689bd6f29aa3fd2.rlib: C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\lib.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\callsite.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\dispatcher.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\event.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\field.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\metadata.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\span.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\subscriber.rs
+
+C:\Users\ali\projects\futures\target\debug\deps\tokio_trace_core-a689bd6f29aa3fd2.d: C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\lib.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\callsite.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\dispatcher.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\event.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\field.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\metadata.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\span.rs C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\subscriber.rs
+
+C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\lib.rs:
+C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\callsite.rs:
+C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\dispatcher.rs:
+C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\event.rs:
+C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\field.rs:
+C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\metadata.rs:
+C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\span.rs:
+C:\Users\ali\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-trace-core-0.1.0\src\subscriber.rs:
